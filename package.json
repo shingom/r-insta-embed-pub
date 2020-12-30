@@ -1,0 +1,31 @@
+{
+  "name": "r-insta-embed-pub",
+  "version": "1.0.0",
+  "description": "react-instagram-embed for cdn",
+  "main": "dist/instaembed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shingom/r-insta-embed-pub.git"
+  },
+  "keywords": [
+    "react-instagram-embed"
+  ],
+  "author": "shingom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shingom/r-insta-embed-pub/issues"
+  },
+  "homepage": "https://github.com/shingom/r-insta-embed-pub#readme",
+  "dependencies": {
+    "react-instagram-embed": "^2.0.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^8.0.12",
+    "typescript": "^4.1.3",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  }
+}
