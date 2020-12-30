@@ -1,3 +1,3 @@
 # formikpub
 
-@material-ui/lab for CDN
+react-instagram-embed for CDN
